@@ -1,0 +1,263 @@
+* {
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background-color: #FFC4C4;
+}
+
+.wrapper {
+	width: 1100px;
+	margin: 10px 0px 10px 0px;
+	padding: 10px 0px 10px 0px;
+	position: relative;
+	margin-left: 20px;
+}
+
+.logo a {
+	font-size: 100px;
+	font-weight: bold;
+	float: left;
+	font-family: courier;
+	color: black;
+	margin: 10px 0px 10px 0px;
+	padding: 10px 0px 10px 0px;
+	margin-left: 10px;
+	position: relative;
+}
+
+.menu {
+	float: right;
+	font-weight: 100px;
+	margin: 10px 0px 10px 0px;
+	padding: 10px 0px 10px 0px;
+}
+
+
+nav {
+	width: 100%;
+	margin: auto;
+	display: flex;
+	line-height: 80%;
+	position: relative;
+	top: 0;
+	background-color: #FF1E1E;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+nav ul li {
+	float: left;
+}
+
+nav ul li a {
+	color: black;
+	font-weight: bold;
+	text-align: center;
+	padding: 20px 20px;
+	text-decoration: none;
+}
+
+nav ul li a:hover {
+	text-decoration: underline;
+}
+
+section {
+	margin: auto;
+	display: flex;
+	margin-bottom: 50px;
+}
+
+.kolom {
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin: 10px 0px 10px 0px;
+	padding: 10px 0px 10px 0px;
+}
+
+.kolom .deskripsi {
+	font-size: 500px;
+	font-weight: bold;
+	font-family: cursive;
+	color: black;
+	margin-left: 200px;
+}
+
+h2 {
+	font-family: unset;
+	font-weight: 800;
+	font-size: 35px;
+	margin-bottom: 20px;
+	color: black;
+	width: 100%;
+	line-height: 50px;
+	margin-left: 50px;
+}
+
+p {
+	margin-left: 20px;
+}
+
+section {
+	margin: auto;
+	display: flex;
+	margin-bottom: 50px;
+}
+
+.kolom {
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin: 10px 0px 10px 0px;
+	padding: 10px 0px 10px 0px;
+}
+
+.kolom .deskripsi {
+	font-size: 500px;
+	font-weight: bold;
+	font-family: sans-serif;
+	color: black;
+	margin-left: 200px;
+}
+
+p {
+	margin-right: 20px;
+}
+
+section {
+	margin: auto;
+	display: flex;
+	margin-bottom: 10px;
+}
+
+.kolom {
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin: 10px 0px 10px 0px;
+	padding: 10px 0px 10px 0px;
+	background-color: #FF5DA2;
+}
+
+.kolom .deskripsi {
+	font-size: 500px;
+	font-weight: bold;
+	font-family: sans-serif;
+	color: black;
+	margin-left: 500px;
+}
+
+* {
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+img {
+	padding: 10px 10px;
+	margin: 10px 10px;
+	width: 200px;
+}
+.pilihan {
+	width: 100%;
+	margin: auto;
+	display: flex;
+	line-height: 100%;
+	position: relative;
+	top: 0;
+	font-size: 20px;
+	line-height: 50px;
+}
+
+.biodata {
+	padding: 40px 40px;
+	margin: 40px 40px;
+	background-color: white;
+	font-family: cursive;
+	font-size: 20px;
+	margin-top: 25px;
+}
+
+ {
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.masa {
+	margin: 80px;
+	background-color: royalblue;
+	background-size: 100px;
+	margin-left: 50px;
+	font-size: 20px;
+}
+
+ul {
+	margin-left: 50px;
+}
+
+* {
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.film {
+	width: 1100px;
+	margin: 10px 0px 10px 0px;
+	padding: 10px 0px 10px 0px;
+	position: relative;
+	margin-left: 20px;
+	background-color: skyblue;
+}
+
+.cerita {
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin: 10px 0px 10px 0px;
+	padding: 10px 0px 10px 0px;
+}
+
+.cerita .singkat {
+	font-size: 25px;
+	font-weight: bold;
+	font-family: cursive;
+	color: black;
+	margin-left: 200px;
+}
+
+h2 {
+	font-family: unset;
+	font-size: 35px;
+	margin-bottom: 10px;
+	color: black;
+	line-height: 70px;
+	margin-left: 50px;
+}
+
+p {
+	margin-left: 30px;
+	margin-bottom: 10px;
+	line-height: 30px;
+	margin-right: 20px;
+}
+
+img {
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
